@@ -14,6 +14,21 @@ Building clean, contract-validated systems at the edge of design, code, and cogn
 
 ## 🔭 Current Projects
 
+                     🕸️  CURIOUSLABS CORE
+                          (Founder: Tom Steinmetz)
+                                │
+        ┌───────────────────────┼────────────────────────┐
+        ▼                       ▼                        ▼
+     🧠 AEGIS Engine         🛰️ OpsPipe              🧬 Curious
+   (Multi-Agent OS)     (AI Data Workflow)      (Emotive AI Companion)
+
+                                │
+        ┌──────────────────────┼────────────────────────┐
+        ▼                      ▼                        ▼
+   📡 MoonSignal         🛡️ Guardian         🎛️ Front-End Systems
+(Multi-Asset Signals)  (Child Presence AI)  (Tailwind, R3F, Vite)
+
+
 - **CuriousLabs.Space** → Personal portfolio + AI product lab
 - **OpsPipe** → Trace-driven AI data ops system (internal)
 - **MoonSignal** → Real-time multi-asset signal layer
@@ -31,9 +46,9 @@ Building clean, contract-validated systems at the edge of design, code, and cogn
 
 ## 🚀 Philosophy
 
-> "Don’t just code — architect.  
+> Don’t just code — architect.  
 > Don’t just ship — reduce friction.  
-> Don’t just use AI — **interrogate it.**"
+> Don’t just use AI — integrate it.
 
 ---
 
@@ -42,17 +57,5 @@ Building clean, contract-validated systems at the edge of design, code, and cogn
 🌐 [curiouslabs.space](https://curiouslabs.space)  
 📨 Via the contact form  
 🧪 Live projects linked on the site
--
-**TomaDev23/TomaDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
