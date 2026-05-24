@@ -1,61 +1,35 @@
-## Hi there 👋
+# Tom Steinmetz
 
-<!-# 🧠 Tom Steinmetz | CuriousLabs.Space
+I am a full-stack builder and code-viber working on AI workflows, product systems, and tools that turn loose ideas into working software.
 
-**Founder • AI Systems Engineer • Cosmic Code Architect**  
-Building clean, contract-validated systems at the edge of design, code, and cognition.
+My current focus is agent orchestration: systems where AI processes can plan, coordinate, validate work, and stay useful under real human direction. I like working close to the architecture, but I care just as much about the interface, the product feel, and the details that make software easier to trust.
 
-🌍 [curiouslabs.space](https://curiouslabs.space)  
-🧪 Clean 261-file production system from 23,800-file AI wreckage  
-🧠 Custom Contract System • Real-time 3D • Sub-200KB bundles  
-📊 99+ Lighthouse • 0 CLS • Tailwind x Three.js x Vite
+## Current Focus
 
----
+**AEGIS**  
+An operating system, or operating layer, for AI processes. AEGIS is where I am exploring how agents can be organized, supervised, and connected into reliable workflows instead of living as one-off prompts.
 
-## 🔭 Current Projects
+**Moon Signal**  
+A quant and algorithmic trading system being built on top of AEGIS. The goal is a stronger signal, research, and automation layer for market analysis and trading workflows.
 
-                     🕸️  CURIOUSLABS CORE
-                          (Founder: Tom Steinmetz)
-                                │
-        ┌───────────────────────┼────────────────────────┐
-        ▼                       ▼                        ▼
-     🧠 AEGIS Engine         🛰️ OpsPipe              🧬 Curious
-   (Multi-Agent OS)     (AI Data Workflow)      (Emotive AI Companion)
+**Agent Orchestration**  
+I am interested in agents that are more than chat windows: coordinated workers with roles, contracts, memory, validation, and a clear path from intent to execution.
 
-                                │
-        ┌──────────────────────┼────────────────────────┐
-        ▼                      ▼                        ▼
-   📡 MoonSignal         🛡️ Guardian         🎛️ Front-End Systems
-(Multi-Asset Signals)  (Child Presence AI)  (Tailwind, R3F, Vite)
+**Full-Stack Product Building**  
+I work across the stack, from frontend interfaces and product flows to backend logic, automation scripts, data pipelines, and integrations.
 
+## How I Work
 
-- **CuriousLabs.Space** → Personal portfolio + AI product lab
-- **OpsPipe** → Trace-driven AI data ops system (internal)
-- **MoonSignal** → Real-time multi-asset signal layer
-- **Guardian** → AI presence engine for emotionally intelligent screens
+I like systems that feel clean from the inside out: clear structure, explicit contracts, practical automation, and interfaces that make complex work feel lighter.
 
----
+My work usually sits somewhere between software architecture, AI engineering, product design, and research. I am drawn to tools that help people move faster without giving up judgment, taste, or control.
 
-## 💻 Tech Stack
+## Tools and Areas
 
-`React` • `Vite` • `TailwindCSS` • `Three.js` • `@react-three/fiber`  
-`Custom Hooks` • `Schema Validation` • `Contract Systems`  
-`Node.js` • `CLI Tools` • `Automation Scripts`
+`React` `Vite` `TailwindCSS` `Node.js` `TypeScript` `JavaScript`  
+`AI Agents` `Workflow Orchestration` `Automation` `APIs` `CLI Tools`  
+`Quant Research` `Algorithmic Trading` `Signal Systems` `Full-Stack Engineering`
 
----
+## Online
 
-## 🚀 Philosophy
-
-> Don’t just code — architect.  
-> Don’t just ship — reduce friction.  
-> Don’t just use AI — integrate it.
-
----
-
-## 📫 Reach Me
-
-🌐 [curiouslabs.space](https://curiouslabs.space)  
-📨 Via the contact form  
-🧪 Live projects linked on the site
-
--->
+[curiouslabs.space](https://curiouslabs.space)
